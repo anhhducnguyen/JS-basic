@@ -14,7 +14,7 @@
 
 ### Lesson 6: Chuyển đổi kiểu dữ liệu
 
-### esson 7: Số trong Javascript
+### Lesson 7: Số trong Javascript
 
 ### Lesson 8: Quy tắc đặt tên biến
 
