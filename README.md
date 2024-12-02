@@ -1,5 +1,9 @@
 # JS-basic
 
+[Lý thuyết về JS](https://github.com/users/anhhducnguyen/projects/8/views/2)
+
+[Bài tập về JS](https://github.com/users/anhhducnguyen/projects/8/views/2)
+
 ## Session 01: Biến, kiểu dữ liệu, câu điều kiện rẽ nhánh
 
 
