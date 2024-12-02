@@ -2,7 +2,7 @@
 
 ## Session 01: Biến, kiểu dữ liệu, câu điều kiện rẽ nhánh
 
-- [ ] https://github.com/anhhducnguyen/JS-basic/issues/1
+- [] https://github.com/anhhducnguyen/JS-basic/issues/1
 
 ### Lesson 1: Giới thiệu về Javascript
 
